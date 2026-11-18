@@ -1,6 +1,6 @@
 # Анализ данных для агентства недвижимости
-(ad hoc задачи)[https://github.com/YuliyaIvchenko/Portfolio/blob/main/project1/project1.ipynb], 
-(Дашборд для агенства недвижимости)[https://datalens.yandex/o5xhe7pxuq3m9?_share_link=public]
+[ad hoc задачи](https://github.com/YuliyaIvchenko/Portfolio/blob/main/project1/project1.ipynb), 
+[Дашборд для агенства недвижимости](https://datalens.yandex/o5xhe7pxuq3m9?_share_link=public)
 
 ## Описание проекта 
 Агентство недвижимости из Петрозаводска планирует выйти на рынок Санкт-Петербурга и Ленинградской области и перевести основной офис в новый регион. Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.
